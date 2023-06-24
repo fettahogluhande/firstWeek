@@ -11,8 +11,8 @@ Formül :  Kilo (kg) / Boy(m) * Boy(m)
 ### 4- Kombinasyon
 ### 5- Dairenin Alanını ve Çevresini Hesaplayan Program
 Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
-Alan Formülü : π * r * r;
-Çevre Formülü : 2 * π * r;
+- Alan Formülü : π * r * r;
+- Çevre Formülü : 2 * π * r;
 ### 6- Yıldızlarla Elmas Yapımı
 ### 7- Tek Sayıların Toplamını Bulan Program
 Java döngüler ile negatif bir değer girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden tek sayıları toplayıp ekrana basan programı yazma
